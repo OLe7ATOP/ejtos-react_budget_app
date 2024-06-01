@@ -1,0 +1,16 @@
+
+#input_currency {
+    background-color: lightgreen; 
+    color: white; 
+}
+
+
+#input_currency option {
+    color: black;
+}
+
+#input_currency option:hover {
+    background-color: white; 
+    color: black;
+}
+
