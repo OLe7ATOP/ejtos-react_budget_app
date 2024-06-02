@@ -7,10 +7,5 @@
 
 #input_currency option {
     color: black;
+    background-color: lightgreen; 
 }
-
-#input_currency option:hover {
-    background-color: white; 
-    color: black;
-}
-
